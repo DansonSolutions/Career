@@ -1,4 +1,5 @@
-#Dansonsolutions Internship Tasks
+Dansonsolutions Internship Tasks
+
 Thank you for your interest in joining us at Dansonsolutions.
 
 Here are the list of the internship tasks. Please choose one of the following areas below and complete the challenge.
@@ -12,6 +13,6 @@ If you are able to complete the task, and the work is of good quality within the
 
 The deadline to submit your task and application is 15 June 2021.
 
-If you are selected for the next round, you will hear from us by or before 27 June 2021.
+If you are selected for the next round, you will hear from us by 27 June 2021.
 
 Good luck!
