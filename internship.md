@@ -4,7 +4,7 @@ Thank you for your interest in joining us at Dansonsolutions.
 
 Here are the list of the internship tasks. Please choose one of the following areas below and complete the challenge.
 
-* [Data Science](http://www.google.com)
+* [Data Science](DataScience)
 * Mobile App Development(NA)
 * Frontend Programming(NA)
 * UI/UX Design(NA)
