@@ -22,7 +22,7 @@
 2. Use the above .csv file and load it into Tableau software 
 3. Create a dashboard using Tableau with simple firstname VS avg_grade bar plot and set it descending order (Use .csv file from Q1)
 
-### Create a report with screen short of you .SQL script and output with small explanation.
-### Upload report as well as .SQL file on github
+#### Create a report with screen short of you .SQL script and output with small explanation.
+#### Upload report as well as .SQL file on github
 
 #### Note - You can use any software or terminal to run all queries (MySQL workbench preferred)
