@@ -7,6 +7,9 @@
 * invite internship@dansonsolutions.com to that particular private repo
 * submit your application
 
+Go To - https://moodleschema.zoola.io/ (Understand the schema of important table)
+Go To - https://github.com/DansonSolutions/Career/tree/main/DataScience/Resources and download all the files.
+
 ### Problem
 1. Write .SQL query to create schema “Test”
 2. Write .SQL query to add all tables from chimpvin_cvmdlOrg-2.sql file to Test schema
