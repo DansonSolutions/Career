@@ -11,8 +11,8 @@ Here are the list of the internship tasks. Please choose one of the following ar
 
 If you are able to complete the task, and the work is of good quality within the given timeframe then we will move you the next step in internship application process.
 
-The deadline to submit your task and application is 15 June 2021.
+The deadline to submit your task and application is 20 July 2021.
 
-If you are selected for the next round, you will hear from us by 27 June 2021.
+If you are selected for the next round, you will hear from us end of July 2021.
 
 Good luck!
